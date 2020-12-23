@@ -1,4 +1,4 @@
-baseURL = "http://brabemi.github.io/"
+baseURL = "https://brabemi.github.io/"
 languageCode = "en-us"
 title = "Mirek's blog"
 theme = "ink"
